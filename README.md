@@ -3,6 +3,6 @@
 Leetcode Question 146 (Medium)
 
 Techniques Used in Question:
-Hashmap
+Hashmap, Design
 
 [Link to Question](https://leetcode.com/problems/lru-cache/)
